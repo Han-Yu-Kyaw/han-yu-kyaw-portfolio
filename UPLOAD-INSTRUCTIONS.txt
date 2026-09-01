@@ -1,0 +1,15 @@
+HAN YU KYAW PORTFOLIO — CLOUDFLARE PAGES
+
+1. Go to https://dash.cloudflare.com/ and sign in.
+2. Open Workers & Pages.
+3. Select Create application > Get started > Drag and drop your files.
+4. Enter a project name such as: han-yu-kyaw-portfolio
+5. Upload the ZIP file containing this folder, or drag this folder itself.
+6. Select Deploy site.
+7. Cloudflare will provide a link ending in pages.dev.
+
+The site is designed for link sharing and includes noindex instructions that
+discourage search engines from listing it. It is not password-protected.
+
+To update the portfolio later, edit index.html and styles.css, then upload a
+new deployment. You may also return to ChatGPT and request an updated package.
